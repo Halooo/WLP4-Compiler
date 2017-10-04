@@ -9,3 +9,5 @@ $ chmod -x 700 run
 
 $ ./run --c [test_file]
 ```
+
+See 2 examples in `./test`
